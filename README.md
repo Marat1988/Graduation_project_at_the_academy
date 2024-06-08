@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Диплом</title>
-</head>
-<body>
+
+
     <h1>Дипломный проект</h1>
     <div style="font-size: large;" class="m_title">Здравствуйте, друзья! Хочу представить мой первый проект (он же был моим дипломным проектом). Стек технологий, который был использован в процессе написания дипломного проекта:
         <ul>
@@ -29,13 +23,3 @@
     </ul>
 
     <h1 id="Autentification">Окно входа</h1>
-
-
-    <style>
-        h1 {
-            text-align: center;
-        }
-    </style>
-    
-</body>
-</html>
