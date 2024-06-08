@@ -18,5 +18,15 @@
   <li><a href="#Autentification">Окно входа;</a></li>
   <li><a href="#Registration">Окно регистрации;</a></li>
 </ul>
-<h1>Окно входа</h1>
+<h1 id="Autentification">Окно входа</h1>
+<p>При старте приложения открывается стартовая страница, где пользователь, если он зарегистрирован на сайте, вводит свой логин и пароль</p>
+  
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/643f987f-7a71-4e18-b6e6-dd60019c35e1)
+
+<p1>В случае, если логин или пароль указан не верный, появляется сообщение</p1>
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/1f5c045c-fffb-4468-8d9b-0263bdb74f5f)
+
+
+  
 </div>
