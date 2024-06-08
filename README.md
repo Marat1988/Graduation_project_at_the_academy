@@ -32,6 +32,10 @@
 
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/15955260-9871-4d14-96e3-c8d086c4eed7)
 
+<p>Имеется небольшая валидация пароля</p>
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/80bfcc23-6882-44ea-b87d-daed26c3fc12)
+
 
 
   
