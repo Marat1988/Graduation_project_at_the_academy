@@ -1,0 +1,69 @@
+﻿@using Store.ViewModel;
+@using Kendo.Mvc.UI;
+@{
+    ViewBag.Title = "Заявки";
+}
+<div class="four"><h1>Заявки</h1></div>
+
+@(Html.Kendo().Grid<OrderViewModel>()
+        .Name("AllOrders")
+        .Columns(c =>
+        {
+            c.Bound(o => o.Id).Title("Номер заявки").HeaderHtmlAttributes(new { title = "Номер заявки" });
+            c.Bound(o => o.DateTimeCreate).Title("Дата заявки").Format("{0:dd.MM.yyyy H:mm}").HeaderHtmlAttributes(new { title = "Дата заявки" });
+            c.Bound(o => o.PhoneNumber).Title("Номер телефона").HeaderHtmlAttributes(new { title = "Номер телефона" });
+            c.Bound(o => o.UserId).Title("UserId").Hidden();
+            c.Bound(o => o.UserName).Title("Пользователь").HeaderHtmlAttributes(new { title = "Пользователь" });
+            c.Bound(o => o.Processed).Title("Обработана").HeaderHtmlAttributes(new { title = "Обработана" }).ClientTemplate("#= Processed ? 'Да' : 'Нет' #");
+            c.Bound(o => o.Quantity).Title("Общее количество").HeaderHtmlAttributes(new { title = "Общее количество" });
+            c.Bound(o => o.Total).Title("Общая сумма").Format("{0:c}").HeaderHtmlAttributes(new { title = "Обшая сумма" });
+            c.Command(command => { command.Edit().Text(" ");  }).Title("Редактировать");
+            c.Template(model => null).ClientTemplate("<a class='fa fa-file' href=\""+ @Url.Action("ShowReportOrder", "Report", new { NumberOrder = "#= Id #" })+"\" title='Открыть отчет' target=\"_blank\"></a>").Title("Открыть отчет");
+        })
+        .ToolBar(t =>
+        {
+            t.Excel();
+            t.Pdf();
+        })
+        .Editable(editable => editable.Mode(GridEditMode.InLine))
+        .Reorderable(reorderable => reorderable.Columns(true))
+        .DataSource(ds => ds
+            .Ajax()
+            .Sort(sort => sort.Add("Id").Ascending())
+            .ServerOperation(false)
+            .Read(read => read.Action("GetAllOrders", "Order"))
+            .Update(update => update.Action("UpdateOrder", "Order"))
+            .Model(model =>
+            {
+                model.Id(x => x.Id);
+                model.Field(x => x.Id).Editable(false);
+                model.Field(x => x.DateTimeCreate).Editable(false);
+                model.Field(x => x.PhoneNumber).Editable(false);
+                model.Field(x => x.UserId).Editable(false);
+                model.Field(x => x.UserName).Editable(false);
+                model.Field(x => x.Quantity).Editable(false);
+                model.Field(x => x.Total).Editable(false);
+            })
+            .Events(events => events.Sync("KendoGridRefresh"))
+        )
+        .Filterable()
+        .Scrollable(scrollable => scrollable.Height("auto"))
+        .Sortable()
+        .Pageable(pageable => pageable
+                        .ButtonCount(5).PageSizes(new int[] { 5, 10, 20, 50, 100 })
+                        .Refresh(true)
+                        .PageSizes(true)
+                        .ButtonCount(5))
+        .Resizable(resizable => resizable.Columns(true))
+    )
+
+
+<script>
+    function KendoGridRefresh() {
+        var grid = $('#AllOrders').data('kendoGrid');
+        grid.dataSource.read();
+    }
+    function openReport(Id) {
+        alert(Id);
+    }
+</script>

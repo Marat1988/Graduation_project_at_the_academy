@@ -1,0 +1,43 @@
+﻿@using Kendo.Mvc.UI;
+@using Store.ViewModel;
+
+@{
+    ViewBag.Title = "Поставщики товара";
+}
+<div class="four"><h1>Поставщики товара</h1></div>
+@(Html.Kendo().Grid<SupplierViewModel>()
+     .Name("Suppliers")
+     .Columns(c =>
+     {
+
+         c.Bound(o => o.Name).Title("Наименование").HeaderHtmlAttributes(new { title = "Наименование" });
+         c.Command(command => { command.Edit().Text("Редактировать"); command.Destroy().Text("Удалить"); });//.Width(240);
+     })
+     .ToolBar(t => t.Create())
+     .Editable(editable => editable.Mode(GridEditMode.InLine))
+     .Reorderable(reorderable => reorderable.Columns(true))
+     .DataSource(ds => ds
+         .Ajax()
+         .ServerOperation(false)
+         .Read(read => read.Action("GetAllSuppliers", "Supplier"))
+         .Create(create => create.Action("AddSupplier", "Supplier"))
+         .Update(update => update.Action("UpdateSupplier", "Supplier"))
+         .Destroy(update => update.Action("DeleteSupplier", "Supplier"))
+         .Model(model =>
+         {
+             model.Id(x => x.Id);
+         })
+         .Events(events => events.Sync("KendoGridRefresh")))
+     .Filterable()
+     .Sortable()
+     .Pageable(pageable => pageable.ButtonCount(5).PageSizes(new int[] { 5, 10, 20, 50, 100 }))
+     .Scrollable(scrollable => scrollable.Height("auto"))
+     .Resizable(resizable => resizable.Columns(true))
+)
+
+<script>
+    function KendoGridRefresh() {
+        var grid = $('#Suppliers').data('kendoGrid');
+        grid.dataSource.read();
+    }
+</script>

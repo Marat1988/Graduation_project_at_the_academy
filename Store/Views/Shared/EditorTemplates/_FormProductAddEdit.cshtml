@@ -1,0 +1,137 @@
+﻿@using Store.ViewModel
+@using Kendo.Mvc.UI;
+
+@model ProductViewModel
+
+@{ 
+    var url = @Url.Content("~/") + "Images/No_Photo.jpg";
+}
+
+<!--Вкладки-->
+<ul class="nav nav-tabs bar_tabs" style="width:inherit; margin-bottom:0;background:none;box-sizing:border-box">
+    <li class="nav-item">
+        <a data-toggle="tab" href="#basic" class="nav-link active">Основное</a>
+    </li>
+</ul>
+
+<div class="tab-content" style="margin-top: 25px">
+    <!--Вкладка Основное-->
+    <div id="basic" class="tab-pane fadeIn active">
+        <div class="row">
+            <div class="col">
+                @Html.HiddenFor(m => m.Id)
+                <div class="editor-label">
+                    @Html.Label("Наименование")
+                </div>
+                <div class="editor-field">
+                    @Html.Kendo().TextBoxFor(m => m.Name)
+                    @Html.ValidationMessageFor(m => m.Name)
+                </div>
+                <div class="editor-label">
+                    @Html.Label("Цена")
+                </div>
+                <div class="editor-field">
+                    @Html.Kendo().NumericTextBoxFor(m => m.Price)
+                    @Html.ValidationMessageFor(m => m.Price)
+                </div>
+                <div class="editor-label">
+                    @Html.LabelFor(m => m.GroupId, "Группа:", new { @class = "control-label" })
+                </div>
+                <div class="editor-field">
+                    @(Html.Kendo().DropDownListFor(m => m.GroupId)
+                        .DataTextField("Name")
+                        .DataValueField("Id")
+                        .BindTo(ViewBag.Groups)
+                    )
+                    @Html.ValidationMessageFor(m => m.GroupId)
+                </div>
+                <div class="editor-label">
+                    @Html.LabelFor(m => m.SupplierId, "Поставщик:", new { @class = "control-label" })
+                </div>
+                <div class="editor-field">
+                    @(Html.Kendo().DropDownListFor(m => m.SupplierId)
+                        .DataTextField("Name")
+                        .DataValueField("Id")
+                        .BindTo(ViewBag.Suppliers)
+                    )
+                    @Html.ValidationMessageFor(m => m.SupplierId)
+                </div>
+                <div class="editor-label">
+                    @Html.Label("Изображение")
+                </div>
+                <div class="editor-field StripPictureProductUpload">
+                    @(Html.Kendo().Upload().Name("PictureProductUpload")
+                        .Multiple(false)
+                        .Messages(m => m.Select(" "))
+                        .HtmlAttributes(new { accept = "image/*", @class = "fa fa-upload" })
+                        .Events(ev => ev.Select("onSelectStripPictureProductUpload"))
+                        .ShowFileList(false))
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    $(document).ready(function () {
+        setTimeout(() => {
+            $(".StripPictureProductUpload .k-dropzone").css({ "justify-content": "left" });
+            $(".StripPictureProductUpload .k-upload-button").css({
+                "min-width": "0",
+                "margin-right": "0"
+            });
+            $(".StripPictureProductUpload .k-upload-button").attr("title", "Загрузите файл");
+            /*=====================================================*/
+            var preview = "<img id='ImagePreviewPicture' class='previewPictureWallet'  src='@Url.Action("GetPictureProduct", "Product")/" + $("input#Id").val() + "' onerror=this.src='@url' />";
+            $(".StripPictureProductUpload .k-dropzone").prepend(preview);
+            $(".StripPictureProductUpload .k-dropzone .k-button span").addClass("fa fa-light fa-upload");
+            $(".StripPictureProductUpload .k-dropzone").append("<div class='k-button k-button-md k-rounded-md k-button-solid k-button-solid-base remove' title='Удалить изображение'><span class='fa fa-light fa-trash'></span></div>");
+
+            /*Удаление изображения strip-picture-wallet*/
+            $(".remove").click(function () {
+                $('#ImagePreviewPicture').attr("src", "../images/No_photo.jpg");
+                $.ajax({
+                    url: "@Url.Action("DeletePictureFromProduct", "Product")",
+                    method: "POST",
+                    data: { productId: $("input#Id").val() },
+                    success: function (data) {
+                        $("#Products").data("kendoGrid").dataSource.read();
+                    }
+                });
+            });
+        }, 1000);
+    });
+</script>
+
+
+<style>
+    .k-edit-form-container {
+        margin: 0 auto;
+        width: 98%;
+    }
+
+    .k-input {
+        width: 100% !important;
+    }
+
+    .k-dropdown-wrap.k-state-default {
+        width: 123% !important
+    }
+
+    input[type=text] {
+        width: 99%;
+    }
+
+    .k-widget * {
+        box-sizing: border-box !important;
+    }
+
+    img {
+        border: 1px solid;
+        color: rgb(204, 204, 204);
+        object-fit: cover;
+        width: 100px;
+        height: 100%;
+    }
+</style>

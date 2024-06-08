@@ -1,0 +1,2585 @@
+C:\Users\HP\Desktop\Exam2\Store\bin\Store.dll.config
+C:\Users\HP\Desktop\Exam2\Store\bin\Store.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\Store.pdb
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Exam2\Store\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\WebGrease.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\ru\System.Web.Razor.resources.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP\Desktop\Exam2\Store\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Exam2\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Exam2\Store\obj\Debug\Store.dll
+C:\Users\HP\Desktop\Exam2\Store\obj\Debug\Store.pdb
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\System.Buffers.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\System.Memory.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\Autofac.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\Autofac.Integration.Mvc.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Buffers.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Memory.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\Autofac.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\Autofac.Integration.Mvc.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Buffers.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Memory.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.Owin.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\Owin.dll
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.Owin.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\Desktop\Exam2\Store\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\Desktop\Exam2\Store\obj\Debug\Store.csproj.Up2Date
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Store.dll.config
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Store.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Store.pdb
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\csc.exe
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\csc.exe.config
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\csc.rsp
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\csi.exe
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\csi.exe.config
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\csi.rsp
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\System.Buffers.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\System.Memory.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\vbc.exe
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\vbc.exe.config
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\vbc.rsp
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Antlr3.Runtime.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Autofac.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Autofac.Integration.Mvc.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\EntityFramework.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.Owin.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Newtonsoft.Json.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Owin.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Buffers.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Memory.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Numerics.Vectors.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Web.Helpers.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Web.Mvc.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Web.Optimization.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Web.Razor.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Web.WebPages.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\WebGrease.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Autofac.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Autofac.Integration.Mvc.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\EntityFramework.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.Owin.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Buffers.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Memory.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Numerics.Vectors.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Web.Helpers.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Web.Mvc.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Web.Razor.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Web.WebPages.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\System.Web.Optimization.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Newtonsoft.Json.xml
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\ru\System.Web.Razor.resources.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.csproj.Up2Date
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.pdb
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.Migrations.InitialCreate.resources
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.Migrations.CreateTableProduct.resources
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.Migrations.CreateTableGroups.resources
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.Migrations.CreateTableSupplier.resources
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.Migrations.CreateTableOrder.resources
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.Migrations.CreateTableLineOrder.resources
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.Migrations.InsertFieldInTableLineOrder.resources
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.Migrations.CreateTableRecycler.resources
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Store.dll.config
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Store.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Store.pdb
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\csc.exe
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\csc.exe.config
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\csc.rsp
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\csi.exe
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\csi.exe.config
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\csi.rsp
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\System.Buffers.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\System.Memory.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\vbc.exe
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\vbc.exe.config
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\vbc.rsp
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\VBCSCompiler.exe
+C:\Users\218 student\Downloads\Exam_Project-main\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Antlr3.Runtime.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Autofac.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Autofac.Integration.Mvc.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\EntityFramework.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\EntityFramework.SqlServer.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.Owin.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.Owin.Security.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Newtonsoft.Json.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Owin.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Buffers.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Memory.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Numerics.Vectors.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Web.Helpers.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Web.Mvc.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Web.Optimization.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Web.Razor.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Web.WebPages.Deployment.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Web.WebPages.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Web.WebPages.Razor.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\WebGrease.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Autofac.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Autofac.Integration.Mvc.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\EntityFramework.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\EntityFramework.SqlServer.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.Owin.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.Owin.Security.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Buffers.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Memory.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Numerics.Vectors.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Web.Helpers.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Web.Mvc.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Web.Razor.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Web.WebPages.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Web.WebPages.Deployment.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Web.WebPages.Razor.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\System.Web.Optimization.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Newtonsoft.Json.xml
+C:\Users\218 student\Downloads\Exam_Project-main\bin\Antlr3.Runtime.pdb
+C:\Users\218 student\Downloads\Exam_Project-main\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\ru\System.Web.Razor.resources.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\218 student\Downloads\Exam_Project-main\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\218 student\Downloads\Exam_Project-main\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\218 student\Downloads\Exam_Project-main\obj\Debug\Store.Migrations.InitialCreate.resources
+C:\Users\218 student\Downloads\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableProduct.resources
+C:\Users\218 student\Downloads\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableGroups.resources
+C:\Users\218 student\Downloads\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableSupplier.resources
+C:\Users\218 student\Downloads\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableOrder.resources
+C:\Users\218 student\Downloads\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableLineOrder.resources
+C:\Users\218 student\Downloads\Exam_Project-main\obj\Debug\Store.Migrations.InsertFieldInTableLineOrder.resources
+C:\Users\218 student\Downloads\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableRecycler.resources
+C:\Users\218 student\Downloads\Exam_Project-main\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\218 student\Downloads\Exam_Project-main\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\218 student\Downloads\Exam_Project-main\obj\Debug\Store.csproj.CopyComplete
+C:\Users\218 student\Downloads\Exam_Project-main\obj\Debug\Store.dll
+C:\Users\218 student\Downloads\Exam_Project-main\obj\Debug\Store.pdb
+C:\Users\218 student\Downloads\Exam_Project-main\obj\Debug\Store.Migrations.InsertNewFieldForUser.resources
+C:\Users\218 student\Downloads\Exam_Project-main\obj\Debug\Store.Migrations.Date.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Store.dll.config
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Store.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Store.pdb
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\csc.exe
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\csc.exe.config
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\csc.rsp
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\csi.exe
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\csi.exe.config
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\csi.rsp
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\System.Buffers.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\System.Memory.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\vbc.exe
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\vbc.exe.config
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\vbc.rsp
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\VBCSCompiler.exe
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Antlr3.Runtime.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Autofac.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Autofac.Integration.Mvc.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\EntityFramework.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\EntityFramework.SqlServer.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.Owin.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.Owin.Security.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Newtonsoft.Json.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Owin.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Buffers.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Memory.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Numerics.Vectors.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Web.Helpers.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Web.Mvc.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Web.Optimization.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Web.Razor.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Web.WebPages.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Web.WebPages.Razor.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\WebGrease.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Autofac.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Autofac.Integration.Mvc.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\EntityFramework.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\EntityFramework.SqlServer.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.Owin.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.Owin.Security.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Buffers.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Memory.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Numerics.Vectors.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Web.Helpers.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Web.Mvc.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Web.Razor.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Web.WebPages.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Web.WebPages.Razor.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\System.Web.Optimization.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Newtonsoft.Json.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\Antlr3.Runtime.pdb
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\ru\System.Web.Razor.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.InitialCreate.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableProduct.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableGroups.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableSupplier.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableOrder.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableLineOrder.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.InsertFieldInTableLineOrder.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableRecycler.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.InsertNewFieldForUser.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.Date.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\obj\Debug\Store.csproj.CopyComplete
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\obj\Debug\Store.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project-main\obj\Debug\Store.pdb
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.Migrations.InsertNewFieldForUser.resources
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.Migrations.Date.resources
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.Migrations.AdFilePhooto.resources
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Store.dll.config
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Store.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Store.pdb
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\csc.exe
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\csc.exe.config
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\csc.rsp
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\csi.exe
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\csi.exe.config
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\csi.rsp
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\System.Buffers.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\System.Memory.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\vbc.exe
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\vbc.exe.config
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\vbc.rsp
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\VBCSCompiler.exe
+C:\Users\218 student\Desktop\Exam_Project-main\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Antlr3.Runtime.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Autofac.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Autofac.Integration.Mvc.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\EntityFramework.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\EntityFramework.SqlServer.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.Owin.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.Owin.Security.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Newtonsoft.Json.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Owin.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Buffers.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Memory.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Numerics.Vectors.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Web.Helpers.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Web.Mvc.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Web.Optimization.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Web.Razor.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Web.WebPages.Deployment.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Web.WebPages.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Web.WebPages.Razor.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\WebGrease.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Autofac.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Autofac.Integration.Mvc.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\EntityFramework.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\EntityFramework.SqlServer.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.Owin.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.Owin.Security.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Buffers.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Memory.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Numerics.Vectors.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Web.Helpers.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Web.Mvc.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Web.Razor.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Web.WebPages.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Web.WebPages.Deployment.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Web.WebPages.Razor.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\System.Web.Optimization.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Newtonsoft.Json.xml
+C:\Users\218 student\Desktop\Exam_Project-main\bin\Antlr3.Runtime.pdb
+C:\Users\218 student\Desktop\Exam_Project-main\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\ru\System.Web.Razor.resources.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\218 student\Desktop\Exam_Project-main\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\218 student\Desktop\Exam_Project-main\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\218 student\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.InitialCreate.resources
+C:\Users\218 student\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableProduct.resources
+C:\Users\218 student\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableGroups.resources
+C:\Users\218 student\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableSupplier.resources
+C:\Users\218 student\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableOrder.resources
+C:\Users\218 student\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableLineOrder.resources
+C:\Users\218 student\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.InsertFieldInTableLineOrder.resources
+C:\Users\218 student\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.CreateTableRecycler.resources
+C:\Users\218 student\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.InsertNewFieldForUser.resources
+C:\Users\218 student\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.Date.resources
+C:\Users\218 student\Desktop\Exam_Project-main\obj\Debug\Store.Migrations.AdFilePhooto.resources
+C:\Users\218 student\Desktop\Exam_Project-main\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\218 student\Desktop\Exam_Project-main\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\218 student\Desktop\Exam_Project-main\obj\Debug\Store.csproj.CopyComplete
+C:\Users\218 student\Desktop\Exam_Project-main\obj\Debug\Store.dll
+C:\Users\218 student\Desktop\Exam_Project-main\obj\Debug\Store.pdb
+C:\Users\HP\Documents\GitHub\Exam_Project\obj\Debug\Store.Migrations.CreatePersonalDiscount.resources
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Store.dll.config
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Store.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Store.pdb
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\System.Buffers.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\System.Memory.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Autofac.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Autofac.Integration.Mvc.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Kendo.Mvc.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.Owin.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Owin.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Buffers.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Memory.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\WebGrease.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Autofac.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Autofac.Integration.Mvc.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Kendo.Mvc.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.Owin.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Buffers.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Memory.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-AE\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-BH\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-DJ\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-DZ\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-EG\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-ER\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-IL\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-IQ\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-JO\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-KM\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-KW\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-LB\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-LY\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-MA\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-MR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-OM\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-PS\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-QA\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-SA\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-SD\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-SO\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-SS\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-SY\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-TD\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-TN\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ar-YE\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\bg-BG\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\cs-CZ\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\da-DK\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\de-AT\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\de-CH\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\de-DE\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\de-LI\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\el-GR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\en-AU\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\en-CA\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\en-GB\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-AR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-BO\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-CL\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-CO\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-CR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-DO\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-EC\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-ES\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-GT\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-HN\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-MX\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-NI\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-PA\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-PE\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-PR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-PY\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-US\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-UY\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\es-VE\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\fa-IR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\fi-FI\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\fr-BE\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\fr-CA\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\fr-CD\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\fr-CH\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\fr-CI\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\fr-CM\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\fr-FR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\fr-HT\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\fr-LU\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\fr-MA\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\fr-MC\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\fr-ML\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\fr-SN\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\he-IL\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\hr-HR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\hu-HU\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\hy-AM\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\it-CH\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\it-IT\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ja-JP\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\mk-MK\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\nb-NO\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\nl-BE\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\nl-NL\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\pl-PL\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\pt-BR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\pt-PT\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ro-RO\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ru-RU\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\sk-SK\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\sq-AL\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\sr-Latn-RS\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\sv-SE\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\tr-TR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\uk-UA\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\vi-VN\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\zh-CN\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\zh-HK\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\zh-TW\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ru\System.Web.Razor.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.Migrations.InitialCreate.resources
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.Migrations.CreateTableProduct.resources
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.Migrations.CreateTableGroups.resources
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.Migrations.CreateTableSupplier.resources
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.Migrations.CreateTableOrder.resources
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.Migrations.CreateTableLineOrder.resources
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.Migrations.InsertFieldInTableLineOrder.resources
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.Migrations.CreateTableRecycler.resources
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.Migrations.InsertNewFieldForUser.resources
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.Migrations.Date.resources
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.Migrations.AdFilePhooto.resources
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.Migrations.CreatePersonalDiscount.resources
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.csproj.Up2Date
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\obj\Debug\Store.pdb
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\AutoMapper.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\AutoMapper.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\HP\Desktop\Новая папка (2)\Exam_Project\bin\System.IO.Pipelines.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Store.dll.config
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Store.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Store.pdb
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\csc.exe
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\csc.exe.config
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\csc.rsp
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\csi.exe
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\csi.exe.config
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\csi.rsp
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\System.Buffers.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\System.Memory.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\vbc.exe
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\vbc.exe.config
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\vbc.rsp
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Antlr3.Runtime.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Autofac.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Autofac.Integration.Mvc.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\AutoMapper.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\EntityFramework.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.Owin.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.Owin.Security.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Newtonsoft.Json.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Owin.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Buffers.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.IO.Pipelines.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Memory.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Numerics.Vectors.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Web.Helpers.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Web.Mvc.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Web.Optimization.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Web.Razor.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Web.WebPages.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\WebGrease.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Autofac.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Autofac.Integration.Mvc.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\AutoMapper.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\EntityFramework.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.Owin.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.Owin.Security.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Buffers.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.IO.Pipelines.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Memory.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Numerics.Vectors.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Web.Helpers.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Web.Mvc.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Web.Razor.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Web.WebPages.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Web.Optimization.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Newtonsoft.Json.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Antlr3.Runtime.pdb
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ru\System.Web.Razor.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.Migrations.InitialCreate.resources
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.Migrations.CreateTableProduct.resources
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.Migrations.CreateTableGroups.resources
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.Migrations.CreateTableSupplier.resources
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.Migrations.CreateTableOrder.resources
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.Migrations.CreateTableLineOrder.resources
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.Migrations.InsertFieldInTableLineOrder.resources
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.Migrations.CreateTableRecycler.resources
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.Migrations.InsertNewFieldForUser.resources
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.Migrations.Date.resources
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.Migrations.AdFilePhooto.resources
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.Migrations.CreatePersonalDiscount.resources
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.csproj.CopyComplete
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.pdb
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Kendo.Mvc.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Web.Http.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\System.Net.Http.Formatting.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\Kendo.Mvc.xml
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-AE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-BH\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-DJ\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-DZ\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-EG\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-ER\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-IL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-IQ\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-JO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-KM\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-KW\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-LB\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-LY\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-MA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-MR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-OM\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-PS\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-QA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-SA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-SD\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-SO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-SS\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-SY\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-TD\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-TN\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ar-YE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\bg-BG\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\cs-CZ\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\da-DK\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\de-AT\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\de-CH\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\de-DE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\de-LI\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\el-GR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\en-AU\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\en-CA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\en-GB\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-AR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-BO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-CL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-CO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-CR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-DO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-EC\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-ES\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-GT\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-HN\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-MX\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-NI\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-PA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-PE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-PR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-PY\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-US\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-UY\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\es-VE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\fa-IR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\fi-FI\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\fr-BE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\fr-CA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\fr-CD\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\fr-CH\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\fr-CI\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\fr-CM\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\fr-FR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\fr-HT\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\fr-LU\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\fr-MA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\fr-MC\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\fr-ML\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\fr-SN\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\he-IL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\hr-HR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\hu-HU\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\hy-AM\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\it-CH\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\it-IT\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ja-JP\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\mk-MK\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\nb-NO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\nl-BE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\nl-NL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\pl-PL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\pt-BR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\pt-PT\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ro-RO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\ru-RU\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\sk-SK\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\sq-AL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\sr-Latn-RS\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\sv-SE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\tr-TR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\uk-UA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\vi-VN\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\zh-CN\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\zh-HK\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\bin\zh-TW\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\My Project\Exam_Project\obj\Debug\Store.Migrations.NewFieldPhoneNumber.resources
+C:\Users\HP\Desktop\Exam_Project\bin\Store.dll.config
+C:\Users\HP\Desktop\Exam_Project\bin\Store.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Store.pdb
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\System.Buffers.dll
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\System.Memory.dll
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Exam_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Exam_Project\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Autofac.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Autofac.Integration.Mvc.dll
+C:\Users\HP\Desktop\Exam_Project\bin\AutoMapper.dll
+C:\Users\HP\Desktop\Exam_Project\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Exam_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Kendo.Mvc.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.Owin.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Owin.dll
+C:\Users\HP\Desktop\Exam_Project\bin\System.Buffers.dll
+C:\Users\HP\Desktop\Exam_Project\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\Exam_Project\bin\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\Exam_Project\bin\System.Memory.dll
+C:\Users\HP\Desktop\Exam_Project\bin\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\Exam_Project\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Exam_Project\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Exam_Project\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\Exam_Project\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Exam_Project\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Exam_Project\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Exam_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\Exam_Project\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\Exam_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Exam_Project\bin\WebGrease.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Autofac.xml
+C:\Users\HP\Desktop\Exam_Project\bin\Autofac.Integration.Mvc.xml
+C:\Users\HP\Desktop\Exam_Project\bin\AutoMapper.xml
+C:\Users\HP\Desktop\Exam_Project\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Exam_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Exam_Project\bin\Kendo.Mvc.xml
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.Owin.xml
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\Desktop\Exam_Project\bin\System.Buffers.xml
+C:\Users\HP\Desktop\Exam_Project\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\Exam_Project\bin\System.IO.Pipelines.xml
+C:\Users\HP\Desktop\Exam_Project\bin\System.Memory.xml
+C:\Users\HP\Desktop\Exam_Project\bin\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\Exam_Project\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\Exam_Project\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\Exam_Project\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\Exam_Project\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Exam_Project\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Exam_Project\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\Exam_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\Exam_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Exam_Project\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Exam_Project\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Exam_Project\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Exam_Project\bin\ar-AE\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-BH\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-DJ\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-DZ\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-EG\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-ER\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-IL\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-IQ\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-JO\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-KM\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-KW\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-LB\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-LY\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-MA\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-MR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-OM\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-PS\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-QA\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-SA\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-SD\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-SO\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-SS\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-SY\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-TD\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-TN\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ar-YE\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\bg-BG\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\cs-CZ\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\da-DK\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\de-AT\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\de-CH\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\de-DE\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\de-LI\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\el-GR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\en-AU\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\en-CA\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\en-GB\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-AR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-BO\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-CL\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-CO\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-CR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-DO\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-EC\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-ES\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-GT\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-HN\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-MX\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-NI\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-PA\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-PE\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-PR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-PY\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-US\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-UY\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es-VE\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fa-IR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fi-FI\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr-BE\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr-CA\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr-CD\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr-CH\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr-CI\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr-CM\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr-FR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr-HT\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr-LU\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr-MA\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr-MC\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr-ML\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr-SN\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\he-IL\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\hr-HR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\hu-HU\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\hy-AM\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\it-CH\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\it-IT\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ja-JP\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\mk-MK\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\nb-NO\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\nl-BE\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\nl-NL\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\pl-PL\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\pt-BR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\pt-PT\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ro-RO\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ru-RU\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\sk-SK\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\sq-AL\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\sr-Latn-RS\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\sv-SE\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\tr-TR\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\uk-UA\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\vi-VN\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\zh-CN\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\zh-HK\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\zh-TW\Kendo.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ru\System.Web.Razor.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.InitialCreate.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableProduct.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableGroups.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableSupplier.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableOrder.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableLineOrder.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.InsertFieldInTableLineOrder.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableRecycler.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.InsertNewFieldForUser.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.Date.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.AdFilePhooto.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreatePersonalDiscount.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.NewFieldPhoneNumber.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.csproj.Up2Date
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.dll
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.pdb
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Store.dll.config
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Store.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Store.pdb
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\csc.exe
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\csc.exe.config
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\csc.rsp
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\csi.exe
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\csi.exe.config
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\csi.rsp
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\System.Buffers.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\System.Memory.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\vbc.exe
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\vbc.exe.config
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\vbc.rsp
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Antlr3.Runtime.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Autofac.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Autofac.Integration.Mvc.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\AutoMapper.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\EntityFramework.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Kendo.Mvc.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.Owin.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.Owin.Security.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Newtonsoft.Json.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Owin.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Buffers.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.IO.Pipelines.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Memory.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Numerics.Vectors.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Web.Helpers.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Web.Mvc.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Web.Optimization.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Web.Razor.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Web.WebPages.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\WebGrease.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Autofac.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Autofac.Integration.Mvc.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\AutoMapper.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\EntityFramework.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Kendo.Mvc.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.Owin.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.Owin.Security.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Buffers.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.IO.Pipelines.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Memory.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Numerics.Vectors.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Web.Helpers.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Web.Mvc.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Web.Razor.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Web.WebPages.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\System.Web.Optimization.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Newtonsoft.Json.xml
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\Antlr3.Runtime.pdb
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-AE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-BH\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-DJ\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-DZ\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-EG\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-ER\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-IL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-IQ\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-JO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-KM\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-KW\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-LB\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-LY\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-MA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-MR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-OM\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-PS\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-QA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-SA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-SD\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-SO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-SS\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-SY\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-TD\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-TN\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ar-YE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\bg-BG\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\cs-CZ\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\da-DK\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\de-AT\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\de-CH\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\de-DE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\de-LI\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\el-GR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\en-AU\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\en-CA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\en-GB\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-AR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-BO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-CL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-CO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-CR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-DO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-EC\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-ES\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-GT\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-HN\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-MX\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-NI\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-PA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-PE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-PR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-PY\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-US\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-UY\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\es-VE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\fa-IR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\fi-FI\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\fr-BE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\fr-CA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\fr-CD\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\fr-CH\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\fr-CI\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\fr-CM\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\fr-FR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\fr-HT\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\fr-LU\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\fr-MA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\fr-MC\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\fr-ML\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\fr-SN\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\he-IL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\hr-HR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\hu-HU\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\hy-AM\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\it-CH\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\it-IT\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ja-JP\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\mk-MK\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\nb-NO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\nl-BE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\nl-NL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\pl-PL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\pt-BR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\pt-PT\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ro-RO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ru-RU\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\sk-SK\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\sq-AL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\sr-Latn-RS\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\sv-SE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\tr-TR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\uk-UA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\vi-VN\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\zh-CN\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\zh-HK\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\zh-TW\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ru\System.Web.Razor.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.Migrations.InitialCreate.resources
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.Migrations.CreateTableProduct.resources
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.Migrations.CreateTableGroups.resources
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.Migrations.CreateTableSupplier.resources
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.Migrations.CreateTableOrder.resources
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.Migrations.CreateTableLineOrder.resources
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.Migrations.InsertFieldInTableLineOrder.resources
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.Migrations.CreateTableRecycler.resources
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.Migrations.InsertNewFieldForUser.resources
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.Migrations.Date.resources
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.Migrations.AdFilePhooto.resources
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.Migrations.CreatePersonalDiscount.resources
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.Migrations.NewFieldPhoneNumber.resources
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.csproj.CopyComplete
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.dll
+C:\Users\218 student\Desktop\Exam\Exam_Project\obj\Debug\Store.pdb
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Store.dll.config
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Store.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Store.pdb
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\csc.exe
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\csc.exe.config
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\csc.rsp
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\csi.exe
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\csi.exe.config
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\csi.rsp
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\System.Buffers.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\System.Memory.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\vbc.exe
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\vbc.exe.config
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\vbc.rsp
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Antlr3.Runtime.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Autofac.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Autofac.Integration.Mvc.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\AutoMapper.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\EntityFramework.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.Owin.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.Owin.Security.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Newtonsoft.Json.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Owin.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Buffers.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.IO.Pipelines.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Memory.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Numerics.Vectors.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Web.Helpers.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Web.Mvc.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Web.Optimization.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Web.Razor.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Web.WebPages.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\WebGrease.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Autofac.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Autofac.Integration.Mvc.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\AutoMapper.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\EntityFramework.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.Owin.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.Owin.Security.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Buffers.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.IO.Pipelines.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Memory.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Numerics.Vectors.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Web.Helpers.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Web.Mvc.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Web.Razor.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Web.WebPages.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\System.Web.Optimization.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Newtonsoft.Json.xml
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\Antlr3.Runtime.pdb
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\ru\System.Web.Razor.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.Migrations.InitialCreate.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableProduct.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableGroups.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableSupplier.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableOrder.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableLineOrder.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.Migrations.InsertFieldInTableLineOrder.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableRecycler.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.Migrations.InsertNewFieldForUser.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.Migrations.Date.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.Migrations.AdFilePhooto.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreatePersonalDiscount.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.Migrations.NewFieldPhoneNumber.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.csproj.CopyComplete
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.dll
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.pdb
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.Migrations.AddFieldToRecycler.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.AddFieldToRecycler.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.ForeignKeyForRecycler.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.UpdateForeignKeyForOrders.resources
+C:\Users\218 student\Desktop\Exam_Project\bin\Store.dll.config
+C:\Users\218 student\Desktop\Exam_Project\bin\Store.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Store.pdb
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\csc.exe
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\csc.exe.config
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\csc.rsp
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\csi.exe
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\csi.exe.config
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\csi.rsp
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\System.Buffers.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\System.Memory.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\vbc.exe
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\vbc.exe.config
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\vbc.rsp
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\218 student\Desktop\Exam_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\218 student\Desktop\Exam_Project\bin\Antlr3.Runtime.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Autofac.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Autofac.Integration.Mvc.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\AutoMapper.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\EntityFramework.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.Owin.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.Owin.Security.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Newtonsoft.Json.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Owin.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Buffers.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\System.IO.Pipelines.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Memory.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Numerics.Vectors.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Web.Helpers.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Web.Mvc.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Web.Optimization.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Web.Razor.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Web.WebPages.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\WebGrease.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\Autofac.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\Autofac.Integration.Mvc.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\AutoMapper.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\EntityFramework.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\Kendo.Mvc.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.Owin.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.Owin.Security.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Buffers.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\System.IO.Pipelines.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Memory.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Numerics.Vectors.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Web.Helpers.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Web.Mvc.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Web.Razor.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Web.WebPages.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\System.Web.Optimization.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\Newtonsoft.Json.xml
+C:\Users\218 student\Desktop\Exam_Project\bin\Antlr3.Runtime.pdb
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-AE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-BH\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-DJ\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-DZ\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-EG\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-ER\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-IL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-IQ\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-JO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-KM\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-KW\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-LB\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-LY\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-MA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-MR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-OM\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-PS\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-QA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-SA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-SD\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-SO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-SS\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-SY\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-TD\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-TN\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ar-YE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\bg-BG\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\cs-CZ\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\da-DK\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\de-AT\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\de-CH\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\de-DE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\de-LI\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\el-GR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\en-AU\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\en-CA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\en-GB\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-AR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-BO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-CL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-CO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-CR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-DO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-EC\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-ES\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-GT\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-HN\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-MX\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-NI\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-PA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-PE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-PR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-PY\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-US\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-UY\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\es-VE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\fa-IR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\fi-FI\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\fr-BE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\fr-CA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\fr-CD\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\fr-CH\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\fr-CI\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\fr-CM\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\fr-FR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\fr-HT\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\fr-LU\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\fr-MA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\fr-MC\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\fr-ML\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\fr-SN\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\he-IL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\hr-HR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\hu-HU\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\hy-AM\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\it-CH\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\it-IT\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ja-JP\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\mk-MK\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\nb-NO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\nl-BE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\nl-NL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\pl-PL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\pt-BR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\pt-PT\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ro-RO\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ru-RU\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\sk-SK\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\sq-AL\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\sr-Latn-RS\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\sv-SE\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\tr-TR\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\uk-UA\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\vi-VN\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\zh-CN\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\zh-HK\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\zh-TW\Kendo.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ru\System.Web.Razor.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.Migrations.InitialCreate.resources
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableProduct.resources
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableGroups.resources
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableSupplier.resources
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableOrder.resources
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableLineOrder.resources
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.Migrations.InsertFieldInTableLineOrder.resources
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateTableRecycler.resources
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.Migrations.InsertNewFieldForUser.resources
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.Migrations.Date.resources
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.Migrations.AdFilePhooto.resources
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreatePersonalDiscount.resources
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.Migrations.NewFieldPhoneNumber.resources
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.Migrations.AddFieldToRecycler.resources
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.Migrations.ForeignKeyForRecycler.resources
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.Migrations.UpdateForeignKeyForOrders.resources
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.csproj.CopyComplete
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.dll
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.pdb
+C:\Users\218 student\Desktop\Exam_Project\obj\Debug\Store.Migrations.FieldProcessForTableOrder.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.Migrations.ForeignKeyForRecycler.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.Migrations.UpdateForeignKeyForOrders.resources
+C:\Users\mtukhtarov\Desktop\Exam_Project\obj\Debug\Store.Migrations.FieldProcessForTableOrder.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.FieldProcessForTableOrder.resources
+C:\Users\HP\Desktop\Exam_Project\obj\Debug\Store.Migrations.CreateProcedure4.resources
+C:\Users\HP\Desktop\Exam_Project\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\HP\Desktop\Exam_Project\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\HP\Desktop\Exam_Project\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\HP\Desktop\Exam_Project\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HP\Desktop\Exam_Project\bin\Microsoft.SqlServer.Types.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ReportViewerForMvc.dll
+C:\Users\HP\Desktop\Exam_Project\bin\EnvDTE.dll
+C:\Users\HP\Desktop\Exam_Project\bin\stdole.dll
+C:\Users\HP\Desktop\Exam_Project\bin\EnvDTE.xml
+C:\Users\HP\Desktop\Exam_Project\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Exam_Project\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Documents\Store\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\HP\Documents\Store\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\HP\Documents\Store\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\HP\Documents\Store\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\HP\Documents\Store\bin\Store.dll.config
+C:\Users\HP\Documents\Store\bin\Store.dll
+C:\Users\HP\Documents\Store\bin\Store.pdb
+C:\Users\HP\Documents\Store\bin\roslyn\csc.exe
+C:\Users\HP\Documents\Store\bin\roslyn\csc.exe.config
+C:\Users\HP\Documents\Store\bin\roslyn\csc.rsp
+C:\Users\HP\Documents\Store\bin\roslyn\csi.exe
+C:\Users\HP\Documents\Store\bin\roslyn\csi.exe.config
+C:\Users\HP\Documents\Store\bin\roslyn\csi.rsp
+C:\Users\HP\Documents\Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Documents\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Documents\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Documents\Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Documents\Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Documents\Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Documents\Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Documents\Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Documents\Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Documents\Store\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\HP\Documents\Store\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Documents\Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Documents\Store\bin\roslyn\System.Buffers.dll
+C:\Users\HP\Documents\Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Documents\Store\bin\roslyn\System.Memory.dll
+C:\Users\HP\Documents\Store\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\HP\Documents\Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Documents\Store\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Documents\Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Documents\Store\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Documents\Store\bin\roslyn\vbc.exe
+C:\Users\HP\Documents\Store\bin\roslyn\vbc.exe.config
+C:\Users\HP\Documents\Store\bin\roslyn\vbc.rsp
+C:\Users\HP\Documents\Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Documents\Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Documents\Store\bin\Antlr3.Runtime.dll
+C:\Users\HP\Documents\Store\bin\Autofac.dll
+C:\Users\HP\Documents\Store\bin\Autofac.Integration.Mvc.dll
+C:\Users\HP\Documents\Store\bin\AutoMapper.dll
+C:\Users\HP\Documents\Store\bin\EntityFramework.dll
+C:\Users\HP\Documents\Store\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Documents\Store\bin\Kendo.Mvc.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.Owin.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.SqlServer.Types.dll
+C:\Users\HP\Documents\Store\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Documents\Store\bin\Newtonsoft.Json.dll
+C:\Users\HP\Documents\Store\bin\Owin.dll
+C:\Users\HP\Documents\Store\bin\ReportViewerForMvc.dll
+C:\Users\HP\Documents\Store\bin\System.Buffers.dll
+C:\Users\HP\Documents\Store\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Documents\Store\bin\System.IO.Pipelines.dll
+C:\Users\HP\Documents\Store\bin\System.Memory.dll
+C:\Users\HP\Documents\Store\bin\System.Numerics.Vectors.dll
+C:\Users\HP\Documents\Store\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Documents\Store\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Documents\Store\bin\System.Web.Helpers.dll
+C:\Users\HP\Documents\Store\bin\System.Web.Mvc.dll
+C:\Users\HP\Documents\Store\bin\System.Web.Optimization.dll
+C:\Users\HP\Documents\Store\bin\System.Web.Razor.dll
+C:\Users\HP\Documents\Store\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Documents\Store\bin\System.Web.WebPages.dll
+C:\Users\HP\Documents\Store\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Documents\Store\bin\WebGrease.dll
+C:\Users\HP\Documents\Store\bin\EnvDTE.dll
+C:\Users\HP\Documents\Store\bin\stdole.dll
+C:\Users\HP\Documents\Store\bin\Autofac.xml
+C:\Users\HP\Documents\Store\bin\Autofac.Integration.Mvc.xml
+C:\Users\HP\Documents\Store\bin\AutoMapper.xml
+C:\Users\HP\Documents\Store\bin\EntityFramework.xml
+C:\Users\HP\Documents\Store\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Documents\Store\bin\Kendo.Mvc.xml
+C:\Users\HP\Documents\Store\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\Documents\Store\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\Documents\Store\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP\Documents\Store\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\HP\Documents\Store\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Documents\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Documents\Store\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\HP\Documents\Store\bin\Microsoft.Owin.xml
+C:\Users\HP\Documents\Store\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\Documents\Store\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\Documents\Store\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\Documents\Store\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\Documents\Store\bin\System.Buffers.xml
+C:\Users\HP\Documents\Store\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Documents\Store\bin\System.IO.Pipelines.xml
+C:\Users\HP\Documents\Store\bin\System.Memory.xml
+C:\Users\HP\Documents\Store\bin\System.Numerics.Vectors.xml
+C:\Users\HP\Documents\Store\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Documents\Store\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Documents\Store\bin\System.Web.Helpers.xml
+C:\Users\HP\Documents\Store\bin\System.Web.Mvc.xml
+C:\Users\HP\Documents\Store\bin\System.Web.Razor.xml
+C:\Users\HP\Documents\Store\bin\System.Web.WebPages.xml
+C:\Users\HP\Documents\Store\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Documents\Store\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Documents\Store\bin\System.Web.Optimization.xml
+C:\Users\HP\Documents\Store\bin\Newtonsoft.Json.xml
+C:\Users\HP\Documents\Store\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Documents\Store\bin\EnvDTE.xml
+C:\Users\HP\Documents\Store\bin\ar-AE\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-BH\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-DJ\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-DZ\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-EG\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-ER\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-IL\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-IQ\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-JO\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-KM\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-KW\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-LB\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-LY\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-MA\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-MR\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-OM\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-PS\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-QA\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-SA\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-SD\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-SO\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-SS\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-SY\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-TD\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-TN\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ar-YE\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\bg-BG\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\cs-CZ\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\da-DK\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\de-AT\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\de-CH\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\de-DE\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\de-LI\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\el-GR\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\en-AU\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\en-CA\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\en-GB\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-AR\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-BO\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-CL\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-CO\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-CR\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-DO\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-EC\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-ES\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-GT\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-HN\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-MX\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-NI\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-PA\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-PE\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-PR\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-PY\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-US\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-UY\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\es-VE\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\fa-IR\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\fi-FI\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\fr-BE\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\fr-CA\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\fr-CD\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\fr-CH\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\fr-CI\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\fr-CM\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\fr-FR\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\fr-HT\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\fr-LU\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\fr-MA\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\fr-MC\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\fr-ML\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\fr-SN\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\he-IL\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\hr-HR\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\hu-HU\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\hy-AM\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\it-CH\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\it-IT\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ja-JP\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\mk-MK\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\nb-NO\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\nl-BE\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\nl-NL\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\pl-PL\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\pt-BR\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\pt-PT\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ro-RO\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ru-RU\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\sk-SK\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\sq-AL\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\sr-Latn-RS\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\sv-SE\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\tr-TR\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\uk-UA\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\vi-VN\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\zh-CN\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\zh-HK\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\zh-TW\Kendo.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\HP\Documents\Store\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\HP\Documents\Store\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Documents\Store\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Documents\Store\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Documents\Store\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Documents\Store\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Documents\Store\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Documents\Store\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Documents\Store\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Documents\Store\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Documents\Store\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Documents\Store\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Documents\Store\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Documents\Store\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Documents\Store\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Documents\Store\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Documents\Store\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Documents\Store\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Documents\Store\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Documents\Store\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Documents\Store\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Documents\Store\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Documents\Store\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Documents\Store\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Documents\Store\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Documents\Store\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Documents\Store\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Documents\Store\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Documents\Store\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Documents\Store\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Documents\Store\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Documents\Store\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Documents\Store\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Documents\Store\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Documents\Store\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Documents\Store\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Documents\Store\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Documents\Store\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Documents\Store\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Documents\Store\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Documents\Store\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\HP\Documents\Store\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Documents\Store\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Documents\Store\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Documents\Store\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Documents\Store\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Documents\Store\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Documents\Store\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Documents\Store\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Documents\Store\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Documents\Store\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\HP\Documents\Store\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Documents\Store\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Documents\Store\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Documents\Store\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Documents\Store\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Documents\Store\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Documents\Store\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Documents\Store\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Documents\Store\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Documents\Store\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Documents\Store\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\HP\Documents\Store\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\HP\Documents\Store\bin\ru\System.Web.Razor.resources.dll
+C:\Users\HP\Documents\Store\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\HP\Documents\Store\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP\Documents\Store\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP\Documents\Store\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\HP\Documents\Store\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.InitialCreate.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.CreateTableProduct.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.CreateTableGroups.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.CreateTableSupplier.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.CreateTableOrder.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.CreateTableLineOrder.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.InsertFieldInTableLineOrder.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.CreateTableRecycler.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.InsertNewFieldForUser.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.Date.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.AdFilePhooto.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.CreatePersonalDiscount.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.NewFieldPhoneNumber.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.AddFieldToRecycler.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.ForeignKeyForRecycler.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.UpdateForeignKeyForOrders.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.FieldProcessForTableOrder.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.Migrations.CreateProcedure4.resources
+C:\Users\HP\Documents\Store\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Store\obj\Debug\Store.csproj.Up2Date
+C:\Users\HP\Documents\Store\obj\Debug\Store.dll
+C:\Users\HP\Documents\Store\obj\Debug\Store.pdb
+C:\Store\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Store\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Store\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Store\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Store\bin\Store.dll.config
+C:\Store\bin\Store.dll
+C:\Store\bin\Store.pdb
+C:\Store\bin\roslyn\csc.exe
+C:\Store\bin\roslyn\csc.exe.config
+C:\Store\bin\roslyn\csc.rsp
+C:\Store\bin\roslyn\csi.exe
+C:\Store\bin\roslyn\csi.exe.config
+C:\Store\bin\roslyn\csi.rsp
+C:\Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Store\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Store\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Store\bin\roslyn\System.Buffers.dll
+C:\Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Store\bin\roslyn\System.Memory.dll
+C:\Store\bin\roslyn\System.Numerics.Vectors.dll
+C:\Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Store\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Store\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Store\bin\roslyn\vbc.exe
+C:\Store\bin\roslyn\vbc.exe.config
+C:\Store\bin\roslyn\vbc.rsp
+C:\Store\bin\roslyn\VBCSCompiler.exe
+C:\Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Store\bin\Antlr3.Runtime.dll
+C:\Store\bin\Autofac.dll
+C:\Store\bin\Autofac.Integration.Mvc.dll
+C:\Store\bin\AutoMapper.dll
+C:\Store\bin\EntityFramework.dll
+C:\Store\bin\EntityFramework.SqlServer.dll
+C:\Store\bin\Kendo.Mvc.dll
+C:\Store\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Store\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Store\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Store\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Store\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Store\bin\Microsoft.Extensions.Primitives.dll
+C:\Store\bin\Microsoft.Owin.dll
+C:\Store\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Store\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Store\bin\Microsoft.Owin.Security.dll
+C:\Store\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Store\bin\Microsoft.ReportViewer.Common.dll
+C:\Store\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Store\bin\Microsoft.ReportViewer.Design.dll
+C:\Store\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Store\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Store\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Store\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Store\bin\Microsoft.SqlServer.Types.dll
+C:\Store\bin\Microsoft.Web.Infrastructure.dll
+C:\Store\bin\Newtonsoft.Json.dll
+C:\Store\bin\Owin.dll
+C:\Store\bin\ReportViewerForMvc.dll
+C:\Store\bin\System.Buffers.dll
+C:\Store\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Store\bin\System.IO.Pipelines.dll
+C:\Store\bin\System.Memory.dll
+C:\Store\bin\System.Numerics.Vectors.dll
+C:\Store\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Store\bin\System.Threading.Tasks.Extensions.dll
+C:\Store\bin\System.Web.Helpers.dll
+C:\Store\bin\System.Web.Mvc.dll
+C:\Store\bin\System.Web.Optimization.dll
+C:\Store\bin\System.Web.Razor.dll
+C:\Store\bin\System.Web.WebPages.Deployment.dll
+C:\Store\bin\System.Web.WebPages.dll
+C:\Store\bin\System.Web.WebPages.Razor.dll
+C:\Store\bin\WebGrease.dll
+C:\Store\bin\EnvDTE.dll
+C:\Store\bin\stdole.dll
+C:\Store\bin\Autofac.xml
+C:\Store\bin\Autofac.Integration.Mvc.xml
+C:\Store\bin\AutoMapper.xml
+C:\Store\bin\EntityFramework.xml
+C:\Store\bin\EntityFramework.SqlServer.xml
+C:\Store\bin\Kendo.Mvc.xml
+C:\Store\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Store\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Store\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Store\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Store\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Store\bin\Microsoft.Extensions.Primitives.xml
+C:\Store\bin\Microsoft.Owin.xml
+C:\Store\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Store\bin\Microsoft.Owin.Security.xml
+C:\Store\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Store\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Store\bin\System.Buffers.xml
+C:\Store\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Store\bin\System.IO.Pipelines.xml
+C:\Store\bin\System.Memory.xml
+C:\Store\bin\System.Numerics.Vectors.xml
+C:\Store\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Store\bin\System.Threading.Tasks.Extensions.xml
+C:\Store\bin\System.Web.Helpers.xml
+C:\Store\bin\System.Web.Mvc.xml
+C:\Store\bin\System.Web.Razor.xml
+C:\Store\bin\System.Web.WebPages.xml
+C:\Store\bin\System.Web.WebPages.Deployment.xml
+C:\Store\bin\System.Web.WebPages.Razor.xml
+C:\Store\bin\System.Web.Optimization.xml
+C:\Store\bin\Newtonsoft.Json.xml
+C:\Store\bin\Antlr3.Runtime.pdb
+C:\Store\bin\EnvDTE.xml
+C:\Store\bin\ar-AE\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-BH\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-DJ\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-DZ\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-EG\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-ER\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-IL\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-IQ\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-JO\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-KM\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-KW\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-LB\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-LY\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-MA\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-MR\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-OM\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-PS\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-QA\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-SA\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-SD\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-SO\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-SS\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-SY\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-TD\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-TN\Kendo.Mvc.resources.dll
+C:\Store\bin\ar-YE\Kendo.Mvc.resources.dll
+C:\Store\bin\bg-BG\Kendo.Mvc.resources.dll
+C:\Store\bin\cs-CZ\Kendo.Mvc.resources.dll
+C:\Store\bin\da-DK\Kendo.Mvc.resources.dll
+C:\Store\bin\de-AT\Kendo.Mvc.resources.dll
+C:\Store\bin\de-CH\Kendo.Mvc.resources.dll
+C:\Store\bin\de-DE\Kendo.Mvc.resources.dll
+C:\Store\bin\de-LI\Kendo.Mvc.resources.dll
+C:\Store\bin\el-GR\Kendo.Mvc.resources.dll
+C:\Store\bin\en-AU\Kendo.Mvc.resources.dll
+C:\Store\bin\en-CA\Kendo.Mvc.resources.dll
+C:\Store\bin\en-GB\Kendo.Mvc.resources.dll
+C:\Store\bin\es-AR\Kendo.Mvc.resources.dll
+C:\Store\bin\es-BO\Kendo.Mvc.resources.dll
+C:\Store\bin\es-CL\Kendo.Mvc.resources.dll
+C:\Store\bin\es-CO\Kendo.Mvc.resources.dll
+C:\Store\bin\es-CR\Kendo.Mvc.resources.dll
+C:\Store\bin\es-DO\Kendo.Mvc.resources.dll
+C:\Store\bin\es-EC\Kendo.Mvc.resources.dll
+C:\Store\bin\es-ES\Kendo.Mvc.resources.dll
+C:\Store\bin\es-GT\Kendo.Mvc.resources.dll
+C:\Store\bin\es-HN\Kendo.Mvc.resources.dll
+C:\Store\bin\es-MX\Kendo.Mvc.resources.dll
+C:\Store\bin\es-NI\Kendo.Mvc.resources.dll
+C:\Store\bin\es-PA\Kendo.Mvc.resources.dll
+C:\Store\bin\es-PE\Kendo.Mvc.resources.dll
+C:\Store\bin\es-PR\Kendo.Mvc.resources.dll
+C:\Store\bin\es-PY\Kendo.Mvc.resources.dll
+C:\Store\bin\es-US\Kendo.Mvc.resources.dll
+C:\Store\bin\es-UY\Kendo.Mvc.resources.dll
+C:\Store\bin\es-VE\Kendo.Mvc.resources.dll
+C:\Store\bin\fa-IR\Kendo.Mvc.resources.dll
+C:\Store\bin\fi-FI\Kendo.Mvc.resources.dll
+C:\Store\bin\fr-BE\Kendo.Mvc.resources.dll
+C:\Store\bin\fr-CA\Kendo.Mvc.resources.dll
+C:\Store\bin\fr-CD\Kendo.Mvc.resources.dll
+C:\Store\bin\fr-CH\Kendo.Mvc.resources.dll
+C:\Store\bin\fr-CI\Kendo.Mvc.resources.dll
+C:\Store\bin\fr-CM\Kendo.Mvc.resources.dll
+C:\Store\bin\fr-FR\Kendo.Mvc.resources.dll
+C:\Store\bin\fr-HT\Kendo.Mvc.resources.dll
+C:\Store\bin\fr-LU\Kendo.Mvc.resources.dll
+C:\Store\bin\fr-MA\Kendo.Mvc.resources.dll
+C:\Store\bin\fr-MC\Kendo.Mvc.resources.dll
+C:\Store\bin\fr-ML\Kendo.Mvc.resources.dll
+C:\Store\bin\fr-SN\Kendo.Mvc.resources.dll
+C:\Store\bin\he-IL\Kendo.Mvc.resources.dll
+C:\Store\bin\hr-HR\Kendo.Mvc.resources.dll
+C:\Store\bin\hu-HU\Kendo.Mvc.resources.dll
+C:\Store\bin\hy-AM\Kendo.Mvc.resources.dll
+C:\Store\bin\it-CH\Kendo.Mvc.resources.dll
+C:\Store\bin\it-IT\Kendo.Mvc.resources.dll
+C:\Store\bin\ja-JP\Kendo.Mvc.resources.dll
+C:\Store\bin\mk-MK\Kendo.Mvc.resources.dll
+C:\Store\bin\nb-NO\Kendo.Mvc.resources.dll
+C:\Store\bin\nl-BE\Kendo.Mvc.resources.dll
+C:\Store\bin\nl-NL\Kendo.Mvc.resources.dll
+C:\Store\bin\pl-PL\Kendo.Mvc.resources.dll
+C:\Store\bin\pt-BR\Kendo.Mvc.resources.dll
+C:\Store\bin\pt-PT\Kendo.Mvc.resources.dll
+C:\Store\bin\ro-RO\Kendo.Mvc.resources.dll
+C:\Store\bin\ru-RU\Kendo.Mvc.resources.dll
+C:\Store\bin\sk-SK\Kendo.Mvc.resources.dll
+C:\Store\bin\sq-AL\Kendo.Mvc.resources.dll
+C:\Store\bin\sr-Latn-RS\Kendo.Mvc.resources.dll
+C:\Store\bin\sv-SE\Kendo.Mvc.resources.dll
+C:\Store\bin\tr-TR\Kendo.Mvc.resources.dll
+C:\Store\bin\uk-UA\Kendo.Mvc.resources.dll
+C:\Store\bin\vi-VN\Kendo.Mvc.resources.dll
+C:\Store\bin\zh-CN\Kendo.Mvc.resources.dll
+C:\Store\bin\zh-HK\Kendo.Mvc.resources.dll
+C:\Store\bin\zh-TW\Kendo.Mvc.resources.dll
+C:\Store\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Store\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Store\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Store\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Store\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Store\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Store\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Store\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Store\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Store\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Store\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Store\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Store\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Store\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Store\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Store\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Store\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Store\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Store\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Store\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Store\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Store\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Store\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Store\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Store\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Store\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Store\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Store\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Store\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Store\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Store\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Store\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Store\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Store\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Store\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Store\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Store\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Store\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Store\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Store\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Store\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Store\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Store\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Store\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Store\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Store\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Store\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Store\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Store\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Store\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Store\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Store\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Store\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Store\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Store\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Store\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Store\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Store\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Store\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Store\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Store\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Store\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Store\bin\ru\System.Web.Helpers.resources.dll
+C:\Store\bin\ru\System.Web.Mvc.resources.dll
+C:\Store\bin\ru\System.Web.Razor.resources.dll
+C:\Store\bin\ru\System.Web.WebPages.resources.dll
+C:\Store\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Store\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Store\bin\ru\System.Web.Optimization.resources.dll
+C:\Store\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Store\obj\Debug\Store.Migrations.InitialCreate.resources
+C:\Store\obj\Debug\Store.Migrations.CreateTableProduct.resources
+C:\Store\obj\Debug\Store.Migrations.CreateTableGroups.resources
+C:\Store\obj\Debug\Store.Migrations.CreateTableSupplier.resources
+C:\Store\obj\Debug\Store.Migrations.CreateTableOrder.resources
+C:\Store\obj\Debug\Store.Migrations.CreateTableLineOrder.resources
+C:\Store\obj\Debug\Store.Migrations.InsertFieldInTableLineOrder.resources
+C:\Store\obj\Debug\Store.Migrations.CreateTableRecycler.resources
+C:\Store\obj\Debug\Store.Migrations.InsertNewFieldForUser.resources
+C:\Store\obj\Debug\Store.Migrations.Date.resources
+C:\Store\obj\Debug\Store.Migrations.AdFilePhooto.resources
+C:\Store\obj\Debug\Store.Migrations.CreatePersonalDiscount.resources
+C:\Store\obj\Debug\Store.Migrations.NewFieldPhoneNumber.resources
+C:\Store\obj\Debug\Store.Migrations.AddFieldToRecycler.resources
+C:\Store\obj\Debug\Store.Migrations.ForeignKeyForRecycler.resources
+C:\Store\obj\Debug\Store.Migrations.UpdateForeignKeyForOrders.resources
+C:\Store\obj\Debug\Store.Migrations.FieldProcessForTableOrder.resources
+C:\Store\obj\Debug\Store.Migrations.CreateProcedure4.resources
+C:\Store\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Store\obj\Debug\Store.csproj.Up2Date
+C:\Store\obj\Debug\Store.dll
+C:\Store\obj\Debug\Store.pdb

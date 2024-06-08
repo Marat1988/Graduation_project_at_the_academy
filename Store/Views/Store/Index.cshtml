@@ -1,0 +1,144 @@
+﻿@using Store.ViewModel;
+@using Kendo.Mvc.UI;
+@model IEnumerable<ProductViewModel>
+
+@{
+    ViewBag.Title = "Магазин";
+    var url = @Url.Content("~/")+ "Images/No_Photo.jpg";
+}
+<div class="row">
+    <div class="col-md-2">
+        <h5>Панель фильтрации товара</h5>
+        @using (Html.BeginForm("Search", "Store", FormMethod.Get, new {Id = "FormSearch"}))
+        {
+            <div class="form-group">
+                @Html.Label("Выберите группу товара")
+                @(Html.Kendo().DropDownList().Name("GroupId")
+                    .DataTextField("Name")
+                    .DataValueField("Id")
+                    .BindTo(ViewBag.AllGroups)
+                )
+            </div>
+            <div class="form-group">
+                @Html.Label("Выберите поставщика товара")
+                @(Html.Kendo().DropDownList().Name("SupplierId")
+                    .DataTextField("Name")
+                    .DataValueField("Id")
+                    .BindTo(ViewBag.AllSuppliers)
+                )
+            </div>
+            <div class="form-group">
+                @Html.Label("Начальная цена")
+                @(Html.Kendo().NumericTextBox().Name("BeginPrice")
+                    .Min(0)
+                    .Value(0))
+            </div>
+            <div class="form-group">
+                @Html.Label("Конечная цена")
+                @(Html.Kendo().NumericTextBox().Name("EndPrice")
+                    .Min(0)
+                    .Value(10000))
+            </div>
+            <button class="btn btn-primary" type="submit"><i class="fa fa-light fa-search"></i> Поиск</button>
+        }
+    </div>
+    <div class="col-md-10">
+        <div id="products" class="row row-cols-1 row-cols-md-4">
+            @foreach (var item in Model)
+            {
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="@Url.Action("GetPictureProduct", "Product", new { id = item.Id, DateTime.Now.Ticks })" class="card-img-top" alt="@item.Id" onerror="this.src='@url'" />
+                        <div class="card-body">
+                            <h6 class="card-title">@item.Name</h6>
+                            <p class="card-text">Поставщик товара: @item.SupplierName<br>Группа товара: @item.GroupName</p>
+                            <p class="card-text">Цена: @item.PersonalPrice</p>
+                        </div>
+                        <div class="card-footer" style="display: flex;">
+                            <button type="button" class="btn btn-primary" onclick="buy(@item.Id)"><i class="fa fa-light fa-shopping-cart"></i> В корзину</button>
+                            <span id="Product @item.Id" style="justify-content: flex-end; font-weight: bold; color: red;"></span>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+
+
+<script>
+    const form = document.getElementById("FormSearch");
+    form.addEventListener("submit", (e) => {
+        e.preventDefault();
+        const formData = new FormData(form);
+
+        let object = Object.fromEntries(formData);
+        object.BeginPrice = object.BeginPrice.replace(/,/, ".");
+        object.EndPrice = object.EndPrice.replace(/,/, ".");
+
+
+        $.ajax({
+            url: "@Url.Action("Search", "Store")",
+            method: "GET",
+            data: object,
+            success: function (data) {
+                $("#products").empty();
+                if (data.length > 0) {
+                    $.each(data, function (index, item) {
+                        var url = "@Url.Action("GetPictureProduct", "Product")/" + item.Id + "?Ticks=" + new Date().getTime();
+                        var html = '<div class="col">' +
+                            '<div class="card h-100">' +
+                            '<img src="' + url + '" class="card-img-top" alt="' + item.Id + '" onerror="this.src=\'@url\'">' +
+                            '<div class="card-body">' +
+                            '<h6 class="card-title">' + item.Name + '</h6>' +
+                            '<p class="card-text">Поставщик товара: ' + item.SupplierName + '<br>Группа товара: ' + item.GroupName + '</p>' +
+                            '<p class="card-text">Цена: ' + item.PersonalPrice + '</p>' +
+                            '</div>' +
+                            '<div class="card-footer">' +
+                            '<button type="button" class="btn btn-primary" onclick="buy(' + item.Id + ')"><i class="fa fa-light fa-shopping-cart"></i> В корзину</button>' +
+                            '</div>' +
+                            '</div>' +
+                            '</div>';
+                        $("#products").append(html);
+                    });
+                }
+                else {
+                    var html = '<h1>Товор во выбранному критерию не было найдено</h1>';
+                    $("#products").append(html);
+                }
+            },
+            error: function (xhr, textStatus, errorThrown) {
+                alert("Ошибка запроса");
+            }
+        });
+    });
+
+    function buy(id) {
+    var id = id;
+        $.ajax({
+            url: "@Url.Action("Buy","Store")",
+            method: "POST",
+            data: { productId: id },
+            success: function (data) {
+                $("#Recycler").text("Корзина (" + data.Amount+" штук)");
+            },
+            error: function (xhr, textStatus, errorThrown) {
+                alert("Ошибка при выполнении запроса");
+            }
+        });
+    }
+</script>
+
+<style>
+    img{
+        width: 100%;
+        height: 50%;
+        object-fit: contain;
+    }
+
+    .row > *
+    {
+        margin-bottom: var(--bs-gutter-x);
+    }
+</style>

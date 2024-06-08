@@ -1,0 +1,94 @@
+﻿@using Kendo.Mvc.UI;
+@using Store.ViewModel;
+@model Store.ViewModel.SendOrderViewModel
+
+
+@{
+    ViewBag.Title = "Корзина";
+}
+<div class="four"><h1>Корзина</h1></div>
+
+<!--https://www.telerik.com/forums/dynamically-update-client-footer-->
+<!--hhttps://demos.telerik.com/aspnet-mvc/grid/aggregates?_ga=2.66338602.587583994.1711882877-781775610.1711138604&_gl=1*12zr4w1*_ga*NzgxNzc1NjEwLjE3MTExMzg2MDQ.*_ga_9JSNBCSF54*MTcxMTg4Mjg3OC4zLjEuMTcxMTkxNDAyMi42MC4wLjA.*_gcl_au*MjA0MTk3Mjg0Ni4xNzExMTM4NjA0-->
+@(Html.Kendo().Grid<RecyclerViewModel>()
+    .Name("RecyclerUser")
+    .Columns(c =>
+    {
+        c.Bound(o => o.ProductId).Title("ProductId").Hidden(true);
+        c.Bound(o => o.ProductName).Title("Наименование товара").HeaderHtmlAttributes(new { title = "Наименование" });
+        c.Bound(o => o.Amount).Title("Количество").HeaderHtmlAttributes(new { title = "Количество" });
+        c.Bound(o => o.DisplayPrice).Title("Витринная цена").Format("{0:c}").HeaderHtmlAttributes(new { title = "Витринная цена" });
+        c.Bound(o => o.ShippingPrice).Title("Ваша цена").Format("{0:c}").HeaderHtmlAttributes(new { title = "Ваша цена" });
+        c.Bound(o => o.Total).Title("Итог").Format("{0:c}").HeaderHtmlAttributes(new { title = "Итог" }).ClientFooterTemplate("#= kendo.format('{0:c}', sum)#");
+        c.Command(command => { command.Edit().Text(" "); command.Destroy().Text(" "); });//.Width(240);
+    })
+
+    .Editable(editable => editable.Mode(GridEditMode.InLine))
+    .Reorderable(reorderable => reorderable.Columns(true))
+    .DataSource(ds => ds
+        .Ajax()
+        .Aggregates(aggregates =>
+        {
+            aggregates.Add(p => p.Total).Sum();
+
+        })
+        .ServerOperation(false)
+        .Read(read => read.Action("GetShowRecycler", "Recycler"))
+        .Update(update => update.Action("UpdateProductFromRecycler", "Recycler").Type(HttpVerbs.Post))
+        .Destroy(update => update.Action("DeleteProductFromRecycler", "Recycler").Type(HttpVerbs.Post))
+        .Model(model =>
+        {
+            model.Id(x => x.Id);
+            model.Field(x => x.ProductName).Editable(false);
+            model.Field(x => x.DisplayPrice).Editable(false);
+            model.Field(x => x.ShippingPrice).Editable(false);
+            model.Field(x => x.ProductId).Editable(false);
+        })
+        .Events(events => events.Sync("KendoGridRefresh"))
+
+        )
+    .Filterable()
+    .Scrollable()
+    .Pageable(pageable => pageable.ButtonCount(5).PageSizes(new int[] { 5, 10, 20, 50, 100}))
+    .Scrollable(scrollable => scrollable.Height("auto"))
+    .Resizable(resizable => resizable.Columns(true))
+)
+
+
+
+<div class="form" style="width: 25%;">
+    @Html.ValidationSummary()
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken();
+
+    <div class="form-group">
+        @Html.LabelFor(x => x.telephone)
+        @Html.TextBoxFor(x => x.telephone, new { @class = "form-control", placeholder = "Маска ввода, например +7 909 111 22 33", type = "tel" })
+        @Html.ValidationMessageFor(x => x.telephone)
+
+    </div>
+        <button class="btn btn-primary" type="submit">Отправить заявку</button>
+    }
+</div>
+
+@if (TempData["Message"] != null)
+{
+    <script>
+        alert('@TempData["Message"]');
+    </script>
+    <div class="alert alert-success">@TempData["Message"]</div>
+}
+
+
+<script>
+    $(document).ready(function () {
+        $("#telephone").inputmask({ mask: "+7 999 999 99 99" });
+    })
+
+    function KendoGridRefresh() {
+        var grid = $('#RecyclerUser').data('kendoGrid');
+        grid.dataSource.read();
+    }
+</script>

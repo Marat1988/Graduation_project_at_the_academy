@@ -1,0 +1,163 @@
+﻿@using Kendo.Mvc.UI;
+@using Store.ViewModel;
+
+@{
+    ViewBag.Title = "Товары";
+}
+<div class="four"><h1>Товары</h1></div>
+@(Html.Kendo().Grid<ProductViewModel>()
+        .Name("Products")
+        .Columns(columns =>
+        {
+            columns.Bound(b => b.Id).Title(" ")
+                            .HeaderHtmlAttributes(new { title = "Картинка изображения" })
+                            .ClientTemplate("#= IsPicture ? '<div class=\"fa fa-light fa-camera pictureProduct\"></div>' : ''#")
+                            .Width(70).Filterable(false).Sortable(false).Title("Картинка изображения");
+            columns.Bound(o => o.Name).Title("Наименование").HeaderHtmlAttributes(new { title = "Наименование" }).ClientFooterTemplate("Общее количество товаров: #= count#").Width(500);
+            columns.Bound(o => o.Price).Title("Цена").Format("{0:c}").HeaderHtmlAttributes(new { title = "Цена" }).ClientFooterTemplate("Сред. цена: #= kendo.format('{0:c}', average)#").Width(150);
+            columns.Bound(o => o.GroupId).Title("GroupId").Hidden().HeaderHtmlAttributes(new { title = "GroupId" }).Width(200);
+            columns.Bound(o => o.GroupName).Title("Наименование группы").HeaderHtmlAttributes(new { title = "Группа" }).Width(200);
+            columns.Bound(o => o.SupplierId).Title("SupplierId").Hidden().HeaderHtmlAttributes(new { title = "SupplierId" }).Width(200);
+            columns.Bound(o => o.SupplierName).Title("Наименование поставщика").HeaderHtmlAttributes(new { title = "Поставщик" }).Width(200);
+            columns.Command(commands =>
+            {
+                commands.Edit().Text(" ").HtmlAttributes(new { Title = "Изменить" });
+                commands.Destroy().Text(" ").HtmlAttributes(new { Title = "Удалить" });
+
+            }).Width(115).Title("  ");
+        })
+        .ToolBar(t =>
+        {
+            t.Create();
+            t.Search();
+        })
+        .DataSource(dataSource => dataSource
+                        .Ajax()
+                        .Aggregates(aggregates =>
+                        {
+                            aggregates.Add(p => p.Name).Count();
+                            aggregates.Add(p => p.Price).Average();
+                        })
+                        .PageSize(10)                      
+                        .Sort(sort => sort.Add("Id").Ascending())
+                        .Read(read => read.Action("GetAllProducts", "Product"))
+                        .Create(create => create.Action("AddProduct", "Group"))
+                        .Update(update => update.Action("UpdateProduct", "Product").Type(HttpVerbs.Post))
+                        .Destroy(destroy => destroy.Action("DeleteProduct", "Product").Type(HttpVerbs.Post))
+                        .Model(model =>
+                        {
+                            model.Id(x => x.Id);
+                        })
+                        )
+        .Editable(editable => editable.Mode(GridEditMode.PopUp)
+        .Window(w =>
+        {
+            w.Title("Редактирование");
+            w.Resizable();
+            w.Width(800);
+            w.Actions(a =>
+            {
+                a.Custom("Question");
+                a.Maximize();
+                a.Close();
+            });
+            w.Iframe(false);
+        }).TemplateName("_FormProductAddEdit"))
+        .Events(ev =>
+        {
+            ev.Edit("EditProduct");
+            ev.Save("Save");
+        })
+        .Pageable(pageable => pageable.PageSizes(new int[] { 5, 10, 20, 50, 100 }))
+        .Navigatable()
+        .Filterable()
+        .Sortable()
+        .Scrollable(scrollable => scrollable.Height("auto"))
+        .Reorderable(reorderable => reorderable.Columns(true))
+        .Resizable(resizable => resizable.Columns(true))
+)
+<script>
+
+    var scrollOffset = {
+        left: 0,
+        top: 0
+    };
+
+    $(document).ready(function () {
+        var grid = $('#Products').data('kendoGrid');
+        grid.thead.closest(".k-grid-header").css("padding-bottom", kendo.support.scrollbar(true));
+
+
+
+        $("#Products").kendoTooltip({
+            filter: "td .pictureProduct",
+            autoHide: false,
+            position: "right",
+            content: function (e) {
+                var dataItem = $("#Products").data("kendoGrid").dataItem(e.target.closest("tr"));
+                var img = $('<img id="storeFrontage">');
+                img.attr('src', "@Url.Action("GetPictureProduct/", "Product")" + dataItem.Id + "?" + new Date().getTime());
+                img.width("150px");
+                return img;
+            }
+        });
+    });
+
+
+    function EditProduct(e) {
+        $('.k-grid-update').text("Сохранить");
+        $('k-grid-cancel').text("Отмена");
+
+        $(".k-overlay").click(function () {
+            $('.k-grid-cancel').click();
+        });
+    }
+
+    function Save(e) {
+        e.preventDefault();
+        let urls = "";
+        console.log(e.model);
+        if (e.model.Id === 0) {
+            urls = "@Url.Action("AddProduct", "Product")";
+        }
+        else {
+            urls = "@Url.Action("UpdateProduct", "Product")";
+        }
+        e.model.Price = e.model.Price.toLocaleString(undefined, { minimumFractionDigits: 2 });
+
+        console.log(e.model);
+        let data = JSON.parse(JSON.stringify(e.model));
+        $.ajax({
+            url: urls,
+            method: "POST",
+            data: data,
+            success: function (data) {
+                $("#Products").data("kendoGrid").dataSource.read();
+            }
+        });
+        return false;
+    }
+
+    function onSelectStripPictureProductUpload(e) {
+        var formData = new FormData();
+        formData.append('uploadImage', e.files[0].rawFile);
+        formData.append('ProductId', $("input#Id").val());
+        $.ajax({
+            url: "@Url.Action("UploadPictureProduct", "Product")",
+            method: "POST",
+            processData: false,
+            contentType: false,
+            data: formData,
+            success: function (data) {
+                alert('Файл успешно загружен');
+                let url = "@Url.Action("GetPictureProduct", "Product")/" + $("input#Id").val() + "?" + new Date().getTime();
+                $('#ImagePreviewPicture').attr("src", url);
+                $("#Products").data("kendoGrid").dataSource.read();
+
+            },
+            error: function(xhr, textStatus, errorThrown){
+                alert('Произошла ошибка при загрузке файла');
+            }
+        });
+    }
+</script>
