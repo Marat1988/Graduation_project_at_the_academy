@@ -27,6 +27,11 @@
 
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/1f5c045c-fffb-4468-8d9b-0263bdb74f5f)
 
+<h1 id="Registration">Окно регистрации</h1>
+<p1>Здесь пользователь пожет зарегистрироваться на сайте.</p1>
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/15955260-9871-4d14-96e3-c8d086c4eed7)
+
 
   
 </div>
