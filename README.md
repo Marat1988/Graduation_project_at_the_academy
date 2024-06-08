@@ -23,14 +23,15 @@
   
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/643f987f-7a71-4e18-b6e6-dd60019c35e1)
 
-<p1>В случае, если логин или пароль указан не верный, появляется сообщение</p1>
+<p>В случае, если логин или пароль указан не верный, появляется сообщение</p>
 
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/1f5c045c-fffb-4468-8d9b-0263bdb74f5f)
 
 <h1 id="Registration">Окно регистрации</h1>
-<p1>Здесь пользователь пожет зарегистрироваться на сайте.</p1>
+<p>Здесь пользователь пожет зарегистрироваться на сайте.</p>
 
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/15955260-9871-4d14-96e3-c8d086c4eed7)
+
 
 
   
