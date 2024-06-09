@@ -89,5 +89,15 @@
 
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/f8553d53-148e-47e4-ba48-dbe3133f1e53)
 
+<h1 id="Users">Пользователи</h1>
+
+Здесь отображаются пользователи, зарегистрированные на сайте. Можно заблокировать пользователя, либо удалить его.
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/55b8d56a-10af-4bcb-93bb-e401cd0e3630)
+
+Также можно изменить данные пользователя (при нажатии на кнопку "Изменить")
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/75f50309-e0d8-4858-b783-6ab4b92d3494)
+
 
 </div>
