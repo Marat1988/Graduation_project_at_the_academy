@@ -160,7 +160,7 @@
 
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/be9796d0-cdd5-4a73-995a-92485f856a16)
 
-При нажатии на ссылку "открыть отчет" появляется страница, где пользователь администратор видит состав заявки и может данную заявку распечатать или экспортировать в различные форматы. Вот здесь как раз я и выполнил интергацию Sql Server Reporting Service в приложение Asp.NET Framework. То есть, по сути это открывается отчет из Sql Server Reporting Service, но только в приложении Asp.NET Framework
+При нажатии на ссылку "открыть отчет" появляется страница, где администратор видит состав заявки и может данную заявку распечатать или экспортировать в различные форматы. Вот здесь как раз я и выполнил интергацию Sql Server Reporting Service в приложение Asp.NET Framework. То есть, по сути это открывается отчет из Sql Server Reporting Service, но только в приложении Asp.NET Framework
 
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/315e8ed5-15bc-4a16-9eab-f7a9930639d3)
 
