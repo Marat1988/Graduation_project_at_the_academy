@@ -25,6 +25,7 @@
     <ul>
       <li><a href="#AdminPageStart">Стартовая страница админа</a></li>
       <li><a href="#AdminPanel">Панель администратора</a></li>
+      <li><a href="#Users">Пользователи</a></li>
     </ul>
   </li>
 </ul>
