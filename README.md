@@ -30,6 +30,7 @@
       <li><a href="#GroupProduct">Группы товара</a></li>
       <li><a href="#Supplier">Поставщики товара</a></li>
       <li><a href="#Product">Товары</a></li>
+      <li><a href="#Order">Заявки</a></li>
     </ul>
   </li>
 </ul>
@@ -148,5 +149,19 @@
 При нажатии на кнопку "добавить" открывается диалоговое окно, где можно добавить товар
 
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/3c1b4bd3-ec21-4128-9ff1-5eaa64667d08)
+
+<h1 id="Order">Заявки</h1>
+
+При переходе на даннцю страницу отображаются заявки, которые делали пользователь на сайте
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/f4a1e731-61d4-4ea7-8754-564f2e18f4e6)
+
+Доступен экспорт заявок в Excel, Pdf. При нажатии на кнопку "редактировать" администратор отмечает (ставит чекбокс) состояние заявки - обработана или не обработана.
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/be9796d0-cdd5-4a73-995a-92485f856a16)
+
+
+
+
 
 </div>
