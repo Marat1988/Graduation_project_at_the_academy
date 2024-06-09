@@ -15,17 +15,18 @@
   </ul>
 Конечно, я не могу гарантировать, что проект мой прямо-таки идеальный. Как говориться: "Нет предела совершенству:)". Но, я старался. У меня не было цели коммерцизировать свой проект. Моя цель была поработать с данным стеком технологий. И своими руками создать что-то свое:). Мой проект представляет собой интернет магазин. Говоря простым языком - сайт, где пользователь может просматривать имеющиеся товары, добавлять в корзину, делать заявку. Если пользователь зарегистрирован, то ему полагается дополнительная скидка в размере 5%. Так.... Что-то я разговорился:) Меньше болтавни:) Пробежимся по интерфейсу:)
 <ul>
-  <li><a href="#Autentification">Окно входа.</a></li>
-  <li><a href="#Registration">Окно регистрации.</a></li>
-  <li><a href="#Information">Информация.</a></li>
-  <li><a href="#Contact">Контакты.</a></li>
-  <li><a href="#Shop">Магазин.</a></li>
-  <li><a href="#Recycler">Корзина.</a></li>
-  <li><a href="#Admin">Админ.</a>
+  <li><a href="#Autentification">Окно входа</a></li>
+  <li><a href="#Registration">Окно регистрации</a></li>
+  <li><a href="#Information">Информация</a></li>
+  <li><a href="#Contact">Контакты</a></li>
+  <li><a href="#Shop">Магазин</a></li>
+  <li><a href="#Recycler">Корзина</a></li>
+  <li><a href="#Admin">Админ</a>
     <ul>
       <li><a href="#AdminPageStart">Стартовая страница админа</a></li>
       <li><a href="#AdminPanel">Панель администратора</a></li>
       <li><a href="#Users">Пользователи</a></li>
+      <li><a href="#Role">Роли</a></li>
     </ul>
   </li>
 </ul>
@@ -98,6 +99,18 @@
 Также можно изменить данные пользователя (при нажатии на кнопку "Изменить")
 
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/75f50309-e0d8-4858-b783-6ab4b92d3494)
+
+<h1 id="Role">Роли</h1>
+
+Здесь администратор пожет повысить пользователя до "админа" или убрать у него полномичия администратора (при нажатии на кнопку "изменить")
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/62d78092-f483-4a0a-8ff1-fc011d8ca57a)
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/e4eef55f-3a9e-4cd9-bfc5-bb07a4449fda)
+
+Также доступка возможность добавить новую роль
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/b5dbd853-0fde-4dd9-93cb-d78905313f98)
 
 
 </div>
