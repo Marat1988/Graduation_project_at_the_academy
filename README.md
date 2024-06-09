@@ -29,6 +29,7 @@
       <li><a href="#Role">Роли</a></li>
       <li><a href="#GroupProduct">Группы товара</a></li>
       <li><a href="#Supplier">Поставщики товара</a></li>
+      <li><a href="#Product">Товары</a></li>
     </ul>
   </li>
 </ul>
@@ -126,5 +127,26 @@
 
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/f1ebe368-7375-4fa3-a396-a05dd170de71)
 
+<h1 id="Product">Товары</h1>
+
+Здесь отображаются товары, которые есть в базе данных
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/b7831d3d-94e0-4058-b7db-e019f5f0007d)
+
+При надедении курсора мыши на иконку с фотографией можно увидеть фото товара
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/0f30eac6-6b9c-42fa-a095-66b61792d459)
+
+Доступна кнопка добавления, удаления и изменения товара. Также доступе поиск и фильтрация товаров.
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/d8cbe165-991d-4200-b516-ea237299a01a)
+
+При нажатии на кнопку "изменить" открывается диалоговое окно, где можно модифицировать данные о товаре, например изменить название, цену, фотографию, поставщика и т.д.
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/ff259d03-07cd-4493-a92a-6f99506cd5c9)
+
+При нажатии на кнопку "добавить" открывается диалоговое окно, где можно добавить товар
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/3c1b4bd3-ec21-4128-9ff1-5eaa64667d08)
 
 </div>
