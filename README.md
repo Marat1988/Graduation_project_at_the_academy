@@ -102,13 +102,13 @@
 
 <h1 id="Role">Роли</h1>
 
-Здесь администратор пожет повысить пользователя до "админа" или убрать у него полномичия администратора (при нажатии на кнопку "изменить")
+Здесь администратор может повысить пользователя до "админа" или убрать у него полномичия администратора (при нажатии на кнопку "изменить")
 
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/62d78092-f483-4a0a-8ff1-fc011d8ca57a)
 
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/e4eef55f-3a9e-4cd9-bfc5-bb07a4449fda)
 
-Также доступка возможность добавить новую роль
+Также доступна возможность добавить новую роль
 
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/b5dbd853-0fde-4dd9-93cb-d78905313f98)
 
