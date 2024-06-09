@@ -24,6 +24,7 @@
   <li><a href="#Admin">Админ;</a>
     <ul>
       <li><a href="#AdminPageStart">Стартовая страница админа</a></li>
+      <li><a href="#AdminPanel">Панель администратора</a></li>
     </ul>
   </li>
 </ul>
@@ -69,11 +70,23 @@
 
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/b6e02fa3-da50-409a-9986-0346d6ca135c)
 
-<h1 id="Admin">Админа</h1>
+<h1 id="Admin">Админ</h1>
 
 Для входа под пользоватем, обладающим правами администратора, вводим логин Admin, а пароль mypassword
 
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/d23aba08-9a3c-4081-a015-4fc586d89bb9)
+
+<h1 id="AdminPageStart">Стартовая страница админа</h1>
+
+При входе пользователя появляется его страница профиля. Здесь он может отредактировать свои персональные данные
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/d82f8bfa-b2fa-47f6-b5a3-93b145179f12)
+
+<h1 id="AdminPanel">Панель администратора</h1>
+
+Пользователю, обралающим правами администратора, доступна панель, где он может добавить, изменить, удалить данные по товарам, группам товаров, поставщикам. Также он может просматривать пользователей, зарегистрированных на сайте и, при необходимости, заблокировать пользователя. Также он видит заявки, которые сформировали пользователи.
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/f8553d53-148e-47e4-ba48-dbe3133f1e53)
 
 
 </div>
