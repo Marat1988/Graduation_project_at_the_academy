@@ -27,6 +27,8 @@
       <li><a href="#AdminPanel">Панель администратора</a></li>
       <li><a href="#Users">Пользователи</a></li>
       <li><a href="#Role">Роли</a></li>
+      <li><a href="#GroupProduct">Группы товара</a></li>
+      <li><a href="#Supplier">Поставщики товара</a></li>
     </ul>
   </li>
 </ul>
@@ -111,6 +113,18 @@
 Также доступна возможность добавить новую роль
 
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/b5dbd853-0fde-4dd9-93cb-d78905313f98)
+
+<h1 id="GroupProduct">Группы товара</h1>
+
+Здесь доступна возможность добавления, удаления и изменения групп товаров (кнопки добавить, изменить, удалить)
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/26da6294-9fbb-4572-9603-674afbe647d7)
+
+<h1 id="Supplier">Поставщики товара</h1>
+
+Здесь доступна возможность добавления, удаления и изменения поставщиков товара (кнопки добавить, изменить, удалить)
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/f1ebe368-7375-4fa3-a396-a05dd170de71)
 
 
 </div>
