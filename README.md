@@ -17,6 +17,7 @@
 <ul>
   <li><a href="#Autentification">Окно входа;</a></li>
   <li><a href="#Registration">Окно регистрации;</a></li>
+  <li><a href="#Information">Информация;</a></li>
 </ul>
 <h1 id="Autentification">Окно входа</h1>
 <p>При старте приложения открывается стартовая страница, где пользователь, если он зарегистрирован на сайте, вводит свой логин и пароль</p>
@@ -36,7 +37,11 @@
 
 ![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/80bfcc23-6882-44ea-b87d-daed26c3fc12)
 
+<h1 id="Information">Информация</h1>
 
+При переходе по этой ссылке появляется страничка, где отображается краткая информация о сайте. В конкретном случае, рассказывается о сайте и какие товары на данном сайте имеются. Фотографии товаров отображаются в специальной карусели bootstrap (https://getbootstrap.com/docs/5.0/components/carousel/)
+
+![image](https://github.com/Marat1988/Graduation_project_at_the_academy/assets/108996479/7062a233-e46b-4753-82c7-d6efd6d18031)
 
   
 </div>
